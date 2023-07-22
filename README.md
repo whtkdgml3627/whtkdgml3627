@@ -39,7 +39,8 @@
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat&logo=IntellijIDEA&logoColor=white" />
+        <img src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat&logo=IntellijIDEA&logoColor=white" />
+  	<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
 	<img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white" />
