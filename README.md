@@ -48,8 +48,9 @@
 </div>
 <br><br>
 <div align=center>
-  <h3>📫 연락 방법:</h3>
-  📧이메일 : <a href=whtkdgml3627@naver.com>whtkdgml3627@naver.com</a>, <a href=whtkdgml36271@gmail.com>whtkdgml36271@gmail.com</a>
+  <h3>📧 Email 📧</h3>
+  <a href="mailto:whtkdgml3627@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white&link=mailto:whtkdgml3627@naver.com"/></a>
+  <a href="mailto:whtkdgml36271@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white&link=mailto:whtkdgml36271@gmail.com"/></a>
 </div>
 <br><br>
 <div align=center>
