@@ -22,13 +22,13 @@
 	<p>✨ Sub Stack ✨</p>
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=Conda-Forge&logoColor=white" />
+<!-- 	<img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=Conda-Forge&logoColor=white" /> -->
 	<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white" />
 	<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
-	<img src="https://img.shields.io/badge/ReactRouter-CA4245?style=flat&logo=reactrouter&logoColor=white" />
-	<br>
+<!-- 	<img src="https://img.shields.io/badge/ReactRouter-CA4245?style=flat&logo=reactrouter&logoColor=white" /> -->
+<!-- 	<br>
 	<img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
-	<img src="https://img.shields.io/badge/KakaoAPI-FFCD00?style=flat&logo=kakao&logoColor=white" />
+	<img src="https://img.shields.io/badge/KakaoAPI-FFCD00?style=flat&logo=kakao&logoColor=white" /> -->
 	<br>
 	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
 	<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white" />
@@ -42,7 +42,7 @@
         <img src="https://img.shields.io/badge/Intellij%20IDEA-000000?style=flat&logo=IntellijIDEA&logoColor=white" />
   	<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
+<!-- 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" /> -->
 	<img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
@@ -65,6 +65,19 @@
 <!--
 **whtkdgml3627/whtkdgml3627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://yermi.tistory.com/entry/%EA%BF%80%ED%8C%81-Github-Readme-%EC%98%88%EC%81%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0-Readme-Header-Badge-Widget-%EB%93%B1
+
+<div align="center">
+	<img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=Conda-Forge&logoColor=white" />
+	<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white" />
+	<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+	<img src="https://img.shields.io/badge/ReactRouter-CA4245?style=flat&logo=reactrouter&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+	<img src="https://img.shields.io/badge/KakaoAPI-FFCD00?style=flat&logo=kakao&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
+	<img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white" />
+</div>
 
 Here are some ideas to get you started:
 
