@@ -25,7 +25,7 @@
 <!-- 	<img src="https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=Conda-Forge&logoColor=white" /> -->
 	<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white" />
 	<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
-<!-- 	<img src="https://img.shields.io/badge/ReactRouter-CA4245?style=flat&logo=reactrouter&logoColor=white" /> -->
+	<img src="https://img.shields.io/badge/ReactRouter-CA4245?style=flat&logo=reactrouter&logoColor=white" />
 <!-- 	<br>
 	<img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
 	<img src="https://img.shields.io/badge/KakaoAPI-FFCD00?style=flat&logo=kakao&logoColor=white" /> -->
@@ -43,7 +43,7 @@
   	<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
 	<br>
 <!-- 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" /> -->
-	<img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white" />
+<!-- 	<img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white" /> -->
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <br><br>
