@@ -60,7 +60,7 @@
 </div>
 </div>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<!-- ![](./profile-3d-contrib/profile-night-rainbow.svg) -->
 
 <!--
 **whtkdgml3627/whtkdgml3627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
